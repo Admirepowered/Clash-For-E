@@ -10,7 +10,7 @@ https://github.com/Dreamacro/clash
 ## Supoort
 https://github.com/nginx/nginx  
 https://github.com/openssl/openssl  
-## Special dry cleaning
+## Special Thanks
 https://github.com/ntop/n2n  
 https://github.com/OpenVPN/tap-windows6  
 
