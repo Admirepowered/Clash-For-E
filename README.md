@@ -16,4 +16,4 @@ https://github.com/ntop/n2n
 https://github.com/OpenVPN/tap-windows6  
 
 ## Tun support
-https://github.com/normanr/socks-tun  
+https://github.com/john-guo/socks-tun/
