@@ -11,6 +11,7 @@ https://github.com/Dreamacro/clash
 https://github.com/nginx/nginx  
 https://github.com/openssl/openssl  
 https://github.com/URenko/Accesser  
+https://github.com/Admirepowered/Pixiv-Steam-Wiki-Unlocker  
 ## Special Thanks
 https://github.com/ntop/n2n  
 https://github.com/OpenVPN/tap-windows6  
