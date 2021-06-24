@@ -1,7 +1,7 @@
 # Clash-For-E
 Clash-E-Client
 Built with E language UI [Exui](http://iexui.com/)  
-[!demo](https://cdn.jsdelivr.net/gh/Admirepowered/Clash-For-E@main/res/demo.png)
+![demo](https://cdn.jsdelivr.net/gh/Admirepowered/Clash-For-E@main/res/demo.png)
 ## 特点
 占用低，使用Clash全局，UI界面最低仅占6M  
 自带PAC分流，可以访问国内Steam社区  
