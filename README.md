@@ -5,7 +5,7 @@ Clash-E-Client
 ![GitHub all releases](https://img.shields.io/github/downloads/Admirepowered/Clash-For-E/total?style=flat-square)
 ![Issues](https://img.shields.io/bitbucket/issues-raw/Admirepowered/Clash-For-E)
 ![RunTime](https://img.shields.io/static/v1?label=runtime&message=Windows7%2B&color=yellow&style=flat-square)
-</div>
+
 Built with E language UI [Exui](http://iexui.com/)  
 ![demo](https://cdn.jsdelivr.net/gh/Admirepowered/Clash-For-E@main/res/demo.png)
 ## 特点
