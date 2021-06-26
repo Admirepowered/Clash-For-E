@@ -4,8 +4,9 @@ Clash-E-Client
 ![Github latest release](https://img.shields.io/github/downloads/Admirepowered/Clash-For-E/latest/total?style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/Admirepowered/Clash-For-E/total?style=flat-square)
 ![Issues](https://img.shields.io/bitbucket/issues-raw/Admirepowered/Clash-For-E)
-![RunTime](https://img.shields.io/static/v1?label=runtime&message=Windows7%2B&color=yellow&style=flat-square)
-
+![RunTime](https://img.shields.io/static/v1?label=runtime&message=Windows7%2B&color=yellow&style=flat-square)  
+Win7用户请下载字库安装以正常显示Emoji  
+[Windows Emoji字库](https://cdn.jsdelivr.net/gh/Admirepowered/Clash-For-E@main/res/seguiemj.ttf)  
 Built with E language UI [Exui](http://iexui.com/)  
 ![demo](https://cdn.jsdelivr.net/gh/Admirepowered/Clash-For-E@main/res/demo.png)
 ## 特点
