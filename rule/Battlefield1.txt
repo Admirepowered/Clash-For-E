@@ -1,0 +1,4 @@
+#战地1,white,规则名称/white或black模式（黑名单或白名单模式）示例规则
+#进程名,进程ID,需要代理地址(*为全地址),sock5地址(auto为Clash的sock5),sock5用户(可选),sock5密码(可选)
+bf1.exe,,*,redirect,auto,none,none
+Origin.exe,,*,redirect,auto,none,none
