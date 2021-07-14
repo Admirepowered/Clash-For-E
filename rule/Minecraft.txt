@@ -1,0 +1,3 @@
+#我的世界(Java版),white,auto
+java.exe,,*,redirect,auto,none,none
+javaw.exe,,*,redirect,auto,none,none
