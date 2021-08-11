@@ -21,7 +21,8 @@ Built with E language UI [Exui](http://iexui.com/)
 自动保存配置，下次启动后还原  
 右键托盘菜单，方便切换模式  
 netfilter驱动全局(部分)代理/Clash-Tun  
-
+[Telegram通知](https://t.me/clashfores)
+[Telegram讨论](https://t.me/clashfore)
 
 
 ## Back end list & Thinks
