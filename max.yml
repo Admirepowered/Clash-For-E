@@ -1,0 +1,41 @@
+#Max融合配置示例文件
+#近期dns污染严重，请尽量启用远程dns
+dns:
+    enable: true
+    ipv6: false
+    # listen: 0.0.0.0:53
+    # enhanced-mode: redir-host #fake-ip
+    # # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
+    # fake-ip-filter: # fake-ip 白名单列
+    #   - '*.lan'
+    #   - localhost.ptlogin2.qq.com
+    nameserver:
+      #- 1.2.4.8
+      #- 114.114.114.114
+      - tls://dns.google:853
+      #- 223.5.5.5
+      #- https://101.101.101.101/
+      #- tls://13800000000.rubyfish.cn:853
+      #- https://13800000000.rubyfish.cn/
+
+    fallback: # nameserver 内的服务器列表同时发起请求，当规则符GEOIP CN 以外时，fallback 列表内的域名服务器生效
+      #- tls://1.0.0.1:853
+      - tls://dns.google:853
+      #- https://cloudflare-dns.com/dns-query
+      #- https://dns.google/dns-query
+    fallback-filter:
+      geoip: true # 默认
+      ipcidr: # 在这个网段内IP 地址会被考虑为被污染IP
+        - 240.0.0.0/4
+        - '*.lan'
+#规则默认是会添加在最前面的
+#rules:
+#- MATCH,Others
+#proxy-groups:
+#-
+#    name: 'Test'
+#    type: url-test
+#    proxies:
+#      - Proxy
+#    url: 'http://www.gstatic.com/generate_204'
+#    interval: '600'
