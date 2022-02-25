@@ -8,7 +8,7 @@ Clash-E-Client
 Win7用户请下载字库安装以正常显示Emoji  
 [Windows Emoji字库](https://cdn.jsdelivr.net/gh/Admirepowered/Clash-For-E@main/res/seguiemj.ttf)  
 Built with E language UI [Exui](http://iexui.com/)  
-![demo](https://cdn.jsdelivr.net/gh/Admirepowered/Clash-For-E@main/res/demo.png)
+![demo](https://raw.githubusercontent.com/Admirepowered/Clash-For-E/main/res/demo.png)
 ## 特点
 占用低，使用Clash全局，UI界面最低仅占6M  
 自带PAC分流，可以访问国内Steam社区  
